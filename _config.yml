@@ -11,11 +11,12 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Sherin S
 tagline: SEO ANALYST
-about-description: # Add Discription
+about-description: A Programmer and SEO Analyst by Profession and a Blogger by Passion # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: sherinajumal@gmail.com # Add your Email address
+phone: contact me  # Add your Phone number
 website: ajumalsherin.github.io # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: ajumalsherin # Add your Github handle
