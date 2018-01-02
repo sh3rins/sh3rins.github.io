@@ -3,7 +3,7 @@ description: Sherin S is a Blogger and SEO Analyst and Blogger, This Site is his
  
   
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':/'
 blog_theme: dark # Or use dark
 
