@@ -1,6 +1,6 @@
 title: Sherin S
-description: > # this means to ignore newlines until "baseurl:"
- Sherin S is a Blogger and SEO Analyst and Blogger, This Site is his Portfolio.
+description: Sherin S is a Blogger and SEO Analyst and Blogger, This Site is his Portfolio. >  # this means to ignore newlines until "baseurl:"
+ 
   
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
